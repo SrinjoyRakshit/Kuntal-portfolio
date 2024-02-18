@@ -93,7 +93,7 @@ nav .nav-list ul li:hover{
     transform: scale(1.1);
 }
 .main{
-    height: 90vh;
+    height: 80vh;
     margin-top: 80px;
     padding: 25px;
     display: flex;
